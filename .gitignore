@@ -11,3 +11,8 @@ dist/
 *.js.map
 test-vault/
 *.zip
+
+# Claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
